@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/smash.wav-40c2ad1149a872c3540c50131abde81e.sample"
+
+[deps]
+
+source_file="res://sfx/smash.wav"
+dest_files=[ "res://.import/smash.wav-40c2ad1149a872c3540c50131abde81e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
